@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Sidali Hadji and I'm a fullstack developer and tech enthusiast</h2>
+<h2 align="center">Hi👋! Sidali Hadji here. I'm a fullstack developer and tech enthusiast</h2>
 
 ###
 
